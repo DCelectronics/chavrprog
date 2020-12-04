@@ -66,7 +66,7 @@ There is 2 verification functions implemented - fast and strict. By default with
 The most typical command set looks like:  
 `chavrprog -d mega328p -a ./firmware.hex`
 
-Disklaimer
+Disclaimer
 -----------
 
 
